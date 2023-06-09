@@ -10,6 +10,15 @@ Latex(Beginner)
 
 # Bibliography Style #
 
+## APA Style ##
+```Latex
+\usepackage[style=apa, backend=biber, natbib=true]{biblatex}
+\addbibresource{bib file name}
+
+[contents]
+
+\printbibliography
+```
 
 # Tables #
 
