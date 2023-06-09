@@ -14,3 +14,8 @@ Latex(Beginner)
 # Tables #
 
 ## 3 by 4 simultaneous game ##
+
+: [Link](./Simultaneous_Game_Tables.tex)
+
+Its result
+[Link](./3by4gametable.png)
