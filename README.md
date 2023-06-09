@@ -3,4 +3,6 @@ Latex(Beginner)
 
 # Font #
 
-\usepackage{mathptmx}: new roman times
+```Latex
+\usepackage{mathptmx}:times new roman
+\usepackage{mathpazo}:
