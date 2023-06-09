@@ -9,3 +9,8 @@ Latex(Beginner)
 ```
 
 # Bibliography #
+
+
+# Tables #
+
+## 3 by 4 simultaneous game ##
