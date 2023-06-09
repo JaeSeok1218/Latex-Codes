@@ -8,14 +8,13 @@ Latex(Beginner)
 \usepackage{mathpazo}:
 ```
 
-# Bibliography #
+# Bibliography Style #
 
 
 # Tables #
 
 ## 3 by 4 simultaneous game ##
 
-: [Link](./Simultaneous_Game_Tables.tex)
+Code: [Link](./Simultaneous_Game_Tables.tex)
 
-Its result
-[Link](./3by4gametable.png)
+Figure: [Link](./3by4gametable.png)
