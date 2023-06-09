@@ -6,5 +6,6 @@ Latex(Beginner)
 ```Latex
 \usepackage{mathptmx}:times new roman
 \usepackage{mathpazo}:
+```
 
 # Bibliography #
