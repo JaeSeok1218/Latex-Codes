@@ -3,7 +3,7 @@ Latex(Beginner)
 
 # Font #
 
-`mathptmx` times new roman.
+`mathptmx` This package defines Adobe Times Roman (or equivalent) as default text font, and provides maths support using glyphs from the Symbol, Chancery and Computer Modern fonts together with letters, etc., from Times Roman([CTAN](https://ctan.org/pkg/mathptmx?lang=en)).
 
 `mathpazo` The Pazo Math fonts are a family of PostScript fonts suitable for typesetting mathematics in combination with the Palatino family of text fonts.([CTAN](https://ctan.org/pkg/mathpazo?lang=en)).
 
