@@ -3,10 +3,8 @@ Latex(Beginner)
 
 # Font #
 
-```Latex
-\usepackage{mathptmx}:times new roman
-\usepackage{mathpazo}:The Pazo Math fonts are a family of PostScript fonts suitable for typesetting mathematics in combination with the Palatino family of text fonts.
-```
+`mathptmx` times new roman
+`mathpazo` The Pazo Math fonts are a family of PostScript fonts suitable for typesetting mathematics in combination with the Palatino family of text fonts.([documentation](https://ctan.org/pkg/mathpazo?lang=en)
 
 # Bibliography Style #
 
