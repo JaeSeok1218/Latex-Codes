@@ -5,12 +5,12 @@ Latex(Beginner)
 
 ```Latex
 \usepackage{mathptmx}:times new roman
-\usepackage{mathpazo}:
+\usepackage{mathpazo}:The Pazo Math fonts are a family of PostScript fonts suitable for typesetting mathematics in combination with the Palatino family of text fonts.
 ```
 
 # Bibliography Style #
 
-## APA Style ##
+## APA Style
 ```Latex
 \usepackage[style=apa, backend=biber, natbib=true]{biblatex}
 \addbibresource{bib file name}
@@ -22,8 +22,12 @@ Latex(Beginner)
 
 # Tables #
 
-## 3 by 4 simultaneous game ##
+## 3 by 4 simultaneous game
 
 Code: [Link](./Simultaneous_Game_Tables.tex)
 
 Figure: [Link](./3by4gametable.png)
+
+
+# Hyperlink #
+
