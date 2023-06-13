@@ -31,3 +31,4 @@ Figure: [Link](./3by4gametable.png)
 
 # Hyperlink #
 
+Using the `hyperref' package and its setup `hypersetup', we can build hyper links.
