@@ -32,3 +32,14 @@ Figure: [Link](./3by4gametable.png)
 # Hyperlink #
 
 Using the `hyperref` package and its setup `hypersetup`, we can build hyper links.
+
+```Latex
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=black,
+	filecolor=blue,      
+	urlcolor=blue,
+	citecolor=blue
+}
+```
