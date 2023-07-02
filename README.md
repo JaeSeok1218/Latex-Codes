@@ -25,10 +25,10 @@ Latex(Beginner)
 
 <div id="Game_Tables">
   <a href="./Codes/2by2_Game_Table.tex">
-    <img src="./Figures_(Tables)/2by2_Game_Table.png" title="2 by 2 Game Table" alt="2 by 2 Game Table" width="327.19" height="267.5"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./Figures_(Tables)/2by2_Game_Table.png" title="2 by 2 Game Table" alt="2 by 2 Game Table" width="320" height="110"/>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="./Codes/3by4_Game_Table.tex">
-    <img src="./Figures_(Tables)/3by4_Game_Table.png" title="3 by 4 Game Table" alt="3 by 4 Game Table" width="308.61" height="269.17"/>
+    <img src="./Figures_(Tables)/3by4_Game_Table.png" title="3 by 4 Game Table" alt="3 by 4 Game Table" width="320" height="152"/>
   </a>
 </div>
 
