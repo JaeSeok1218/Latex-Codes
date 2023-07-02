@@ -24,7 +24,7 @@ Latex(Beginner)
 ## Game Tables
 
 <div id="Game_Tables">
-  <a href="./Codes/2by2_Game_Talbe.tex">
+  <a href="./Codes/2by2_Game_Table.tex">
     <img src="./Figures_(Models)/Ramsey_Model.png" title="Ramsey Model" alt="Ramsey Model" width="327.19" height="267.5"/>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="./Codes/3by4_Game_Table.tex">
