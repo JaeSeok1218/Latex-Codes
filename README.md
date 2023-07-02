@@ -21,11 +21,16 @@ Latex(Beginner)
 
 # Tables #
 
-## 3 by 4 simultaneous game
+## Game Tables
 
-Code: [Link](./Simultaneous_Game_Tables.tex)
-
-Figure: [Link](./3by4gametable.png)
+<div id="Game_Tables">
+  <a href="./Codes/2by2_Game_Talbe.tex">
+    <img src="./Figures_(Models)/Ramsey_Model.png" title="Ramsey Model" alt="Ramsey Model" width="327.19" height="267.5"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="./Codes/3by4_Game_Table.tex">
+    <img src="./Figures_(Models)/Ramsey_Model_with_Government.png" title="Ramsey Model with Government" alt="Ramsey Model with Government" width="308.61" height="269.17"/>
+  </a>
+</div>
 
 
 # Hyperlink #
