@@ -46,4 +46,6 @@ Using the `hyperref` package and its setup `hypersetup`, we can build hyper link
 	urlcolor=blue,
 	citecolor=blue
 }
+
+\printbibliography
 ```
