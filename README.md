@@ -51,3 +51,13 @@ Using the `hyperref` package and its setup `hypersetup`, we can build hyper link
 \hyperlink{targetname}{text}
 
 ```
+
+# Theorems #
+
+* `Solution` and qed sign at the end of the solution
+```Latex
+
+\newenvironment{solution}{\renewcommand{\proofname}{Solution}\begin{proof}}{\end{proof}}
+\renewcommand\qedsymbol{$\blacksquare$}
+
+```
