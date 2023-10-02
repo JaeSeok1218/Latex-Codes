@@ -47,4 +47,7 @@ Using the `hyperref` package and its setup `hypersetup`, we can build hyper link
 	citecolor=blue
 }
 
+\hypertarge{targetname}{target}
+\hyperlink{targetname}{text}
+
 ```
